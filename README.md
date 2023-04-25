@@ -3,4 +3,4 @@
 
     제 poster 발표 내용을 설명하는 영상을 제작해 업로드 했습니다.
     
-    [영상링크](https://youtu.be/n8tAooAxXVI)
+    [**영상링크**](https://youtu.be/n8tAooAxXVI)
